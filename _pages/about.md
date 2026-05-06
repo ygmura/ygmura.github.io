@@ -18,5 +18,5 @@ I explore these questions using experimental methods and statistical analysis.
 
 I completed my BA in Linguistics at [Dokuz Eylül University](https://global.deu.edu.tr/). I later received my MSc in Speech and Language Processing from [University of Konstanz](https://www.uni-konstanz.de/). As part of my graduate studies, I spent a semester abroad at [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/). For more details, please see my CV.
 
-Alongside my CV, the blog is where I think more freely—writing through ideas and experiences as an international student. It is not only a record of what I study, but also of how I come to understand real-life experiences tied to linguistic theory.
+Alongside my CV, the blog is where I think more freely. It is not only a record of what I study, but also of how I come to understand my real-life experiences tied to linguistic theory.
 
