@@ -41,3 +41,56 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* --- Typography: slightly smaller, more academic --- */
+body {
+  font-size: 0.95em;
+  line-height: 1.7;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* --- Headings: reduce bulk --- */
+h1 {
+  font-size: 1.8em;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: 500;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-weight: 500;
+}
+
+/* --- Paragraph spacing --- */
+.page__content p {
+  margin-bottom: 1.2em;
+}
+
+/* --- Lists (your bullet points section) --- */
+.page__content ul {
+  margin-left: 1.2em;
+  line-height: 1.6;
+}
+
+/* --- Links: cleaner look --- */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* --- Sidebar (profile text) --- */
+.author__content {
+  font-size: 0.9em;
+}
+
+/* --- Narrower content width --- */
+.page {
+  max-width: 900px;
+}
