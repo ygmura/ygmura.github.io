@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Yağmur Ağacıkoğlu, an MA graduate in speech and language processing. My research primarily revolves around on third language acquisition, typology, cross-linguistic influence and morphosyntax. I am drawn to the spaces where languages meet, overlap, and sometimes fail to align.
+I am an MA graduate in Speech and Language Processing at [University of Konstanz](https://www.uni-konstanz.de/). My research primarily revolves around on third language acquisition, typology, cross-linguistic influence and morphosyntax. I am drawn to the spaces where languages meet, overlap, and sometimes fail to align.
 
 I am particularly interested in 
 * how the influence of previously acquired languages shapes the course of third or further language acquisition,
