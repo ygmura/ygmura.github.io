@@ -10,8 +10,8 @@ redirect_from:
 I’m Yağmur Ağacıkoğlu, an MA graduate in speech and language processing. My research primarily revolves around on third language acquisition, typology, cross-linguistic influence and morphosyntax. I am drawn to the spaces where languages meet, overlap, and sometimes fail to align.
 
 I am particularly interested in 
-* how previously acquired grammatical systems influence the target system,
-* how similar structures must be to have influence and to invite tranfer,
+* how the influence of previously acquired languages shapes the course of third or further language acquisition,
+* how similar the structures must be to have influence,
 * and how factors such as proficiency, language use, input, and social context modulate it.
 
 I explore these questions using experimental methods and statistical analysis. 
