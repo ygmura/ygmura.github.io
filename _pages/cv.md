@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. Speech and Language Processing, Universität Konstanz, Konstanz/Germany, 2026
+  * Master's thesis: *The Role of English Proficiency in Article Production in L3 German: Evidence from L1 Turkish Learners*
+  * Supervisors: Massimiliano Canzi & Anika Lloyd-Smith
+* B.S. Linguistics, Dokuz Eylül Üniversitesi, Izmir/Türkiye 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter 2025/6: Research Assistant
+  * Universität Konstanz
+  * Project:  *A cross-linguistic study of heritage language reversal: The case of Turkish returnees from the United States and Germany*
+  * Supervisor: Aylin Coskun Kunduz
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2024: Internship
+  * Norwegian University of Science and Technology (NTNU), Trondheim/Norway
+  * Project: *Cross-linguistic Influence in Multilingual Acquisition (CLIMA)*
+  * Supervisor: Anne Dahl
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Languages
+======
+* Turkish: Native
+* English: Proficient
+* German: Intermediate in writing and reading, beginner in speaking
+* Norwegian: Advanced in writing and reading, intermediate in speaking
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python: Basic
+* R/R studio: Intermediate
