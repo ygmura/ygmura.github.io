@@ -33,7 +33,7 @@ Languages
 * Turkish: Native
 * English: Proficient
 * German: Intermediate in writing and reading, beginner in speaking
-* Norwegian: Advanced in writing and reading, intermediate in speaking
+* Norwegian: Intermediate in writing and reading, intermediate in speaking
 
   
 Skills
